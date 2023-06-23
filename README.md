@@ -12,9 +12,7 @@ HOW TO RUN:
 
 1. Perform a git clone with the link in your desired directory.
 
-   '''
-   git clone {link}
-   '''
+   `git clone {link}`
 
 3. Navigate to the directory you have cloned the repo in
 4. Install requirements in requirements.txt file
