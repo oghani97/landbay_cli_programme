@@ -12,10 +12,12 @@ HOW TO RUN:
 
 1. Perform a git clone with the link in your desired directory.
 
-   '''git clone {link}'''
+   '''
+   git clone {link}
+   '''
 
-2. Navigate to the directory you have cloned the repo in
-3. Install requirements in requirements.txt file
+3. Navigate to the directory you have cloned the repo in
+4. Install requirements in requirements.txt file
 
    '''python pip install -r requirements.txt'''
 
